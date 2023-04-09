@@ -11,3 +11,51 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Img-car{
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+}
+
+.Section-one{
+  padding: 10px;
+  border: solid 5px red;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.ButtonColor{
+  background-color: #d9a411;
+  border-color: green;
+}
+
+.marginAllSide{
+  margin: 10px;
+}
+
+.marginTopBottom10px{
+  margin: 10px 0px;
+}
+
+.TextAlignEnd{
+  text-align: end;
+}
+
+.TextAlignCenter{
+  text-align: center;
+}
+
+.borderBottom{
+  border-bottom: inset;
+  border-bottom-color: inherit;
+}
+
+.paddingLeftRight5px{
+  margin: 0px 5px;
+}
+
+.boxShadow{
+  box-shadow:  10px 10px 5px lightgray;
+  padding: 1px;
+}
